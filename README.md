@@ -38,9 +38,11 @@ Description:used the username and password "user" and foud that the green site l
 The error message was not in bold indicating that there is an issue with this particular site that is not in the other two.
 
 <img src="green-vuln1.gif">
-https://giphy.com/gifs/QA0xCP7gpzDpSLi2WB/html5
+
+![](https://giphy.com/gifs/QA0xCP7gpzDpSLi2WB/html5)
 
 <iframe src="https://giphy.com/embed/QA0xCP7gpzDpSLi2WB" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/QA0xCP7gpzDpSLi2WB">via GIPHY</a></p>
+
 
 Vulnerability #2: performed an XSS attack by inserting <script>('XSS attack');</script>
 
