@@ -10,3 +10,4 @@
     https://gph.is/g/4gYbOGW
     https://giphy.com/gifs/THfyMn3yxDlxKQb63W/html5
     <img src="https://giphy.com/gifs/THfyMn3yxDlxKQb63W/html5" width="800">
+    <iframe src="https://giphy.com/embed/THfyMn3yxDlxKQb63W" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/THfyMn3yxDlxKQb63W">via GIPHY</a></p>
