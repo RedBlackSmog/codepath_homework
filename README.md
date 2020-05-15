@@ -1,7 +1,7 @@
 # codepath_homework
 # Project 8 - Pentesting Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -35,7 +35,7 @@ Description:
 Vulnerability #1: Username Enumeration 
 
 Description:used the username and password "user" and foud that the green site looked different from the other two.
-The error message was not in bold
+The error message was not in bold indicating that there is an issue with this particular site that is not in the other two.
 
 <img src="green-vuln1.gif">
 https://giphy.com/gifs/QA0xCP7gpzDpSLi2WB/html5
@@ -68,3 +68,4 @@ Description:
 ## Notes
 
 Describe any challenges encountered while doing the work
+I spent a lot of time playing with the site and not getig anywhere.
