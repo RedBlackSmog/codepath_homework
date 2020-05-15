@@ -39,14 +39,15 @@ The error message was not in bold
 
 <img src="green-vuln1.gif">
 https://giphy.com/gifs/QA0xCP7gpzDpSLi2WB/html5
-<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/QA0xCP7gpzDpSLi2WB" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/QA0xCP7gpzDpSLi2WB">via GIPHY</a></p>
+
 <iframe src="https://giphy.com/embed/QA0xCP7gpzDpSLi2WB" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/QA0xCP7gpzDpSLi2WB">via GIPHY</a></p>
+
 Vulnerability #2: performed an XSS attack by inserting <script>('XSS attack');</script>
 
-Description:Using the feedback page I inserted the script <script>('XSS attack');</script> into both the your name and feeback boxes
+Description:Using the feedback page I inserted the script <script>('XSS attack');</script> into both the your name and feeback boxes. After loging into an employee account through pperson and clicking on feedback, you can see multiple requests are sent using the one feedback form
 
 <img src="green-vuln2.gif">
-<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/QA0xCP7gpzDpSLi2WB" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/QA0xCP7gpzDpSLi2WB">via GIPHY</a></p>
+href="https://giphy.com/gifs/QA0xCP7gpzDpSLi2WB">via GIPHY</a></p>
 https://giphy.com/gifs/QA0xCP7gpzDpSLi2WB/html5
 <iframe src="https://giphy.com/embed/QA0xCP7gpzDpSLi2WB" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/QA0xCP7gpzDpSLi2WB">via GIPHY</a></p>
 ## Red
