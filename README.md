@@ -44,7 +44,6 @@ Vulnerability #2: performed an XSS attack by inserting <script>('XSS attack');</
 
 Description:Using the feedback page I inserted the script <script>('XSS attack');</script> into both the your name and feeback boxes. After loging into an employee account through pperson and clicking on feedback, you can see multiple requests are sent using the one feedback form
 
-<img src="green-vuln2.gif">
 <img src="https://gph.is/g/Z2nR7RW" width="800">
 ## Red
 
