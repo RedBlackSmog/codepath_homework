@@ -37,7 +37,7 @@ Vulnerability #1: Username Enumeration
 Description:used the username and password "user" and foud that the green site looked different from the other two.
 The error message was not in bold indicating that there is an issue with this particular site that is not in the other two.
 
-<img src="green-vuln1.gif">
+https://gph.is/g/ZlRp3eg
 
 
 Vulnerability #2: performed an XSS attack by inserting <script>('XSS attack');</script>
